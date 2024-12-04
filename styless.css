@@ -1,0 +1,40 @@
+body {
+    color: blanchedalmond;
+    background: cadetblue;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px cornflowerblue;
+    padding: 20px;
+    font-size: 31px;
+    color:antiquewhite
+}
+
+section { 
+    background: #5fabb2;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+
+   h1 {
+    font-size: 40px;
+   }
+   p {
+    font-size: 20px;
+   }
+   img {
+    height: 200px ;
+
+   }
+
+   .categoria-videos {
+    display: flex;
+   }
